@@ -1,0 +1,5 @@
+{
+  "image": "mcr.microsoft.com/devcontainers/universal:2",
+  "features": {
+  }
+}python3 /workspaces/MHDDoS/start.py UDP IP:POT 53 999
